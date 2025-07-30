@@ -3,14 +3,29 @@
 ## 🥇 Rankings
 
 
+**Yoshi: 101 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 50.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
 **Komodowaran: 89 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 44.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
+**Garmin: 88 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 44.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
 **Backfisch: 86 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 43.0%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Letzter Platz: 60 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 30.0%; background-color: deeppink; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Waluigi Love: 60 Points**
@@ -28,24 +43,9 @@
   <div style="width: 28.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Garmin: 45 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 22.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Yoshi: 44 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 22.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
-</div>
-
 **Master Baiter: 40 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 20.0%; background-color: yellow; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Letzter Platz: 26 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 13.0%; background-color: deeppink; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Esel: 15 Points**
@@ -79,6 +79,10 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Einhörner | keine Ahnung | 25 |
+| Letzter Platz | keine ahnung | 34 |
+| Yoshi | keine Ahnung | 57 |
+| Garmin | keine Ahnung | 43 |
 | Maxi | custom | 2 |
 | Garmin | keine Ahnung | 45 |
 | Dominik | custom | 57 |
