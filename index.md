@@ -13,22 +13,22 @@
   <div style="width: 51.0%; background-color: grey; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Dominik: 49.666666666666664 Avg Points**
+**Dominik: 49.67 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 49.7%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Garmin: 45.666666666666664 Avg Points**
+**Garmin: 45.67 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 45.7%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Komodowaran: 45.666666666666664 Avg Points**
+**Komodowaran: 45.67 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 45.7%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Backfisch: 41.333333333333336 Avg Points**
+**Backfisch: 41.33 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 41.3%; background-color: purple; height: 100%; border-radius: 8px;"></div>
 </div>

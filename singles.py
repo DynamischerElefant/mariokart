@@ -65,7 +65,7 @@ def write_md(players, matches, output_file="index.md"):
             if p["matches"] == 0:
                 avg = 0
             else:
-                avg = p["points"]/p["matches"]
+                avg = round(p["points"]/p["matches"], 2)
             f.write(f"""
 **{p["name"]}: {avg} Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
