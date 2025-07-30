@@ -13,9 +13,14 @@
   <div style="width: 51.0%; background-color: grey; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Dominik: 49.67 Avg Points**
+**Komodowaran: 49.25 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 49.7%; background-color: blue; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 49.2%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Dominik: 47.75 Avg Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 47.8%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Garmin: 45.67 Avg Points**
@@ -23,9 +28,9 @@
   <div style="width: 45.7%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Komodowaran: 45.67 Avg Points**
+**Emil: 42.0 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 45.7%; background-color: green; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 42.0%; background-color: coral; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Backfisch: 41.33 Avg Points**
@@ -68,17 +73,15 @@
   <div style="width: 0.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Emil: 0 Avg Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 0.0%; background-color: coral; height: 100%; border-radius: 8px;"></div>
-</div>
-
 ---
 
 ## 🏁 Race Results
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Dominik | custom | 42 |
+| Komodowaran | custom | 60 |
+| Emil | custom | 42 |
 | Waluigi Love | custom | 35 |
 | Yoshi | keine Ahnung | 60 |
 | Dominik | custom | 60 |
