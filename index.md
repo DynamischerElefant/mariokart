@@ -8,9 +8,19 @@
   <div style="width: 50.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
+**Waluigi Love: 99 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 49.5%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+</div>
+
 **Komodowaran: 89 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 44.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Dominik: 89 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 44.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Garmin: 88 Points**
@@ -28,19 +38,9 @@
   <div style="width: 30.0%; background-color: deeppink; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Waluigi Love: 60 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 30.0%; background-color: purple; height: 100%; border-radius: 8px;"></div>
-</div>
-
 **Addiven: 57 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 28.5%; background-color: grey; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Dominik: 57 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 28.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Master Baiter: 40 Points**
@@ -79,6 +79,8 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Dominik | custom | 32 |
+| Waluigi Love | custom | 39 |
 | Einhörner | keine Ahnung | 25 |
 | Letzter Platz | keine ahnung | 34 |
 | Yoshi | keine Ahnung | 57 |
