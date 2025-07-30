@@ -12,6 +12,7 @@ venv/
 # Ignore CSVs if you don't want to commit them
 teams.csv
 matches.csv
+players.csv
 
 # Ignore generated markdown
 # index.md
