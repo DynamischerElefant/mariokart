@@ -62,7 +62,7 @@ def write_md(players, matches, output_file="index.md"):
             f.write(f"""
 **{p["name"]}: {p["points"]} Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: {(p["points"]/100)*100:.1f}%; background-color: {p["color"]}; height: 100%; border-radius: 8px;"></div>
+  <div style="width: {(p["points"]/2):.1f}%; background-color: {p["color"]}; height: 100%; border-radius: 8px;"></div>
 </div>
 """)
         f.write("\n---\n\n## 🏁 Race Results\n\n")

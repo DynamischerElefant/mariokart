@@ -3,49 +3,59 @@
 ## 🥇 Rankings
 
 
-**Komodowaran: 55 Points**
+**Komodowaran: 89 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 55.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 44.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Backfisch: 86 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 43.0%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Waluigi Love: 60 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 30.0%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Addiven: 57 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 28.5%; background-color: grey; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Dominik: 57 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 28.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Yoshi: 44 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 44.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Backfisch: 40 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 40.0%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 22.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Master Baiter: 40 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 40.0%; background-color: yellow; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 20.0%; background-color: yellow; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Waluigi Love: 37 Points**
+**Einhörner: 34 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 37.0%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 17.0%; background-color: pink; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Letzter Platz: 26 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 13.0%; background-color: rosa; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Esel: 15 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 15.0%; background-color: blue; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Einhörner: 10 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 10.0%; background-color: pink; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 7.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Maxi: 4 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 4.0%; background-color: blue; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Letzter Platz: 0 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 0.0%; background-color: rosa; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 2.0%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Garmin: 0 Points**
@@ -56,11 +66,6 @@
 **Philipp: 0 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 0.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Addiven: 0 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 0.0%; background-color: grey; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Emil: 0 Points**
@@ -74,6 +79,14 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Dominik | custom | 57 |
+| Waluigi Love | custom | 23 |
+| Komodowaran | custom | 34 |
+| Backfisch | custom | 46 |
+| Addiven | keine Ahnung | 57 |
+| Letzter Platz | keine Ahnung | 26 |
+| Einhörner | keine Ahnung | 24 |
+| David | keine Ahnung | 57 |
 | Komodowaran | custom | 55 |
 | Waluigi Love | custom | 37 |
 | Master Baiter | custom | 40 |
