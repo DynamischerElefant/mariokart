@@ -89,6 +89,8 @@ def main():
         players = add_player(players)
 
     if args.add_score:
+        for player in players:
+            print(player["name"])
         matches = add_score(matches)
 
     if args.add_player or args.add_score or args.rebuild:
