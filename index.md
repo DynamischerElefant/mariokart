@@ -38,9 +38,9 @@
   <div style="width: 40.5%; background-color: yellow; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Waluigi Love: 34.5 Avg Points**
+**Waluigi Love: 34.6 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 34.5%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 34.6%; background-color: purple; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Letzter Platz: 30.0 Avg Points**
@@ -79,6 +79,7 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Waluigi Love | custom | 35 |
 | Yoshi | keine Ahnung | 60 |
 | Dominik | custom | 60 |
 | Einhorn | keine Ahnung | 31 |
