@@ -3,14 +3,19 @@
 ## 🥇 Rankings
 
 
+**Yoshi: 53.0 Avg Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 53.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
 **Addiven: 51.0 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 51.0%; background-color: grey; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Yoshi: 50.666666666666664 Avg Points**
+**Dominik: 49.666666666666664 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 50.7%; background-color: green; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 49.7%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Garmin: 45.666666666666664 Avg Points**
@@ -21,11 +26,6 @@
 **Komodowaran: 45.666666666666664 Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 45.7%; background-color: green; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Dominik: 44.5 Avg Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 44.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Backfisch: 41.333333333333336 Avg Points**
@@ -79,6 +79,8 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Yoshi | keine Ahnung | 60 |
+| Dominik | custom | 60 |
 | Einhorn | keine Ahnung | 31 |
 | Yoshi | keine Ahnung | 51 |
 | Backfisch | keine Ahnung | 38 |
