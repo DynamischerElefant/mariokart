@@ -38,14 +38,9 @@
   <div style="width: 20.0%; background-color: yellow; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Einhörner: 34 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 17.0%; background-color: pink; height: 100%; border-radius: 8px;"></div>
-</div>
-
 **Letzter Platz: 26 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 13.0%; background-color: rosa; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 13.0%; background-color: deeppink; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Esel: 15 Points**
@@ -56,6 +51,11 @@
 **Maxi: 4 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 2.0%; background-color: blue; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Einhï¿½rner: 0 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 0.0%; background-color: pink; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Garmin: 0 Points**
