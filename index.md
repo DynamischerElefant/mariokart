@@ -28,6 +28,11 @@
   <div style="width: 28.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
+**Garmin: 45 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 22.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
 **Yoshi: 44 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 22.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
@@ -58,11 +63,6 @@
   <div style="width: 0.0%; background-color: pink; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Garmin: 0 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 0.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
-</div>
-
 **Philipp: 0 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 0.0%; background-color: green; height: 100%; border-radius: 8px;"></div>
@@ -79,6 +79,7 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Garmin | keine Ahnung | 45 |
 | Dominik | custom | 57 |
 | Waluigi Love | custom | 23 |
 | Komodowaran | custom | 34 |
