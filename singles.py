@@ -12,7 +12,7 @@ def load_players():
         return []
     with open(PLAYERS_FILE) as file:
         reader = csv.DictReader(file)
-        return [{"name": row["name"], "color": row["color"], "points": int(row["points"])} for row in reader]
+        return [{"name": row["name"], "color": row["color"], "points": int(row["points"]), "matches": int(row["matches"])} for row in reader]
 
 def load_matches():
     if not os.path.exists(MATCHES_FILE):
@@ -23,7 +23,7 @@ def load_matches():
 
 def save_players(players):
     with open(PLAYERS_FILE, "w", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=["name", "color", "points"])
+        writer = csv.DictWriter(file, fieldnames=["name", "color", "points", "matches"])
         writer.writeheader()
         writer.writerows(players)
 
@@ -36,7 +36,7 @@ def save_matches(matches):
 def add_player(players):
     name = input("🎮 Player name: ")
     color = input("🎨 Player color: ")
-    players.append({"name": name, "color": color, "points": 0})
+    players.append({"name": name, "color": color, "points": 0, "matches": 0})
     return players
 
 def add_score(matches):
@@ -48,21 +48,28 @@ def add_score(matches):
 
 def calculate_points(players, matches):
     totals = defaultdict(int)
+    counts = defaultdict(int)
     for m in matches:
         totals[m["player"]] += m["points"]
+        counts[m["player"]] += 1
     for p in players:
         p["points"] = totals[p["name"]]
+        p["matches"] = counts[p["name"]]
     return players
 
 def write_md(players, matches, output_file="index.md"):
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("# 🏆 Mario Kart Tournament\n\n## 🥇 Rankings\n\n")
-        players.sort(key=lambda p: p["points"], reverse=True)
+        players.sort(key=lambda p: p["points"] / p["matches"] if p["matches"] else 0, reverse=True)
         for p in players:
+            if p["matches"] == 0:
+                avg = 0
+            else:
+                avg = p["points"]/p["matches"]
             f.write(f"""
-**{p["name"]}: {p["points"]} Points**
+**{p["name"]}: {avg} Avg Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: {(p["points"]/2):.1f}%; background-color: {p["color"]}; height: 100%; border-radius: 8px;"></div>
+  <div style="width: {(avg):.1f}%; background-color: {p["color"]}; height: 100%; border-radius: 8px;"></div>
 </div>
 """)
         f.write("\n---\n\n## 🏁 Race Results\n\n")
