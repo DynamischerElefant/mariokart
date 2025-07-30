@@ -53,9 +53,9 @@
   <div style="width: 7.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
-**Maxi: 4 Points**
+**Maxi: 6 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 2.0%; background-color: blue; height: 100%; border-radius: 8px;"></div>
+  <div style="width: 3.0%; background-color: blue; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Einhï¿½rner: 0 Points**
@@ -79,6 +79,7 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Maxi | custom | 2 |
 | Garmin | keine Ahnung | 45 |
 | Dominik | custom | 57 |
 | Waluigi Love | custom | 23 |
