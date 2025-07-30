@@ -82,7 +82,7 @@
 | Waluigi Love | custom | 39 |
 | Komodowaran | custom | 48 |
 | Master Baiter | keine Ahnung | 41 |
-| Garmin | 49 | 49 |
+| Garmin | keine Ahnung | 49 |
 | Addiven | keine Ahnung | 49 |
 | Dominik | custom | 32 |
 | Waluigi Love | custom | 39 |
