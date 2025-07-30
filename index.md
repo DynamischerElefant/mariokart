@@ -48,6 +48,11 @@
   <div style="width: 30.0%; background-color: deeppink; height: 100%; border-radius: 8px;"></div>
 </div>
 
+**Einhorn: 59 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 29.5%; background-color: pink; height: 100%; border-radius: 8px;"></div>
+</div>
+
 **Esel: 15 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 7.5%; background-color: blue; height: 100%; border-radius: 8px;"></div>
@@ -56,11 +61,6 @@
 **Maxi: 6 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 3.0%; background-color: blue; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**EinhÃ¶rner: 0 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 0.0%; background-color: pink; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Philipp: 0 Points**
@@ -84,7 +84,7 @@
 | Addiven | keine Ahnung | 49 |
 | Dominik | custom | 32 |
 | Waluigi Love | custom | 39 |
-| Einhörner | keine Ahnung | 25 |
+| Einhorn | keine Ahnung | 25 |
 | Letzter Platz | keine ahnung | 34 |
 | Yoshi | keine Ahnung | 57 |
 | Garmin | keine Ahnung | 43 |
@@ -96,13 +96,13 @@
 | Backfisch | custom | 46 |
 | Addiven | keine Ahnung | 57 |
 | Letzter Platz | keine Ahnung | 26 |
-| Einhörner | keine Ahnung | 24 |
+| Einhorn | keine Ahnung | 24 |
 | David | keine Ahnung | 57 |
 | Komodowaran | custom | 55 |
 | Waluigi Love | custom | 37 |
 | Master Baiter | custom | 40 |
 | Maxi | custom | 4 |
 | Esel | keine Ahnung | 15 |
-| Einhörner | keine Ahnung | 10 |
+| Einhorn | keine Ahnung | 10 |
 | Yoshi | keine Ahnung | 44 |
 | Backfisch | keine Ahnung | 40 |
