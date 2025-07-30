@@ -56,7 +56,7 @@ def calculate_points(players, matches):
 
 def write_md(players, matches, output_file="index.md"):
     with open(output_file, "w", encoding="utf-8") as f:
-        f.write("# 🏎️ Mario Kart Tournament\n\n## 🥇 Rankings\n\n")
+        f.write("# 🏆 Mario Kart Tournament\n\n## 🥇 Rankings\n\n")
         players.sort(key=lambda p: p["points"], reverse=True)
         for p in players:
             f.write(f"""
