@@ -3,7 +3,17 @@
 ## 🥇 Rankings
 
 
+**Waluigi Love: 138 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 69.0%; background-color: purple; height: 100%; border-radius: 8px;"></div>
+</div>
+
 **Garmin: 137 Points**
+<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
+  <div style="width: 68.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
+</div>
+
+**Komodowaran: 137 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 68.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
@@ -16,16 +26,6 @@
 **Yoshi: 101 Points**
 <div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
   <div style="width: 50.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Waluigi Love: 99 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 49.5%; background-color: purple; height: 100%; border-radius: 8px;"></div>
-</div>
-
-**Komodowaran: 89 Points**
-<div style="background-color: #eee; border-radius: 8px; width: 100%; height: 20px;">
-  <div style="width: 44.5%; background-color: green; height: 100%; border-radius: 8px;"></div>
 </div>
 
 **Dominik: 89 Points**
@@ -79,6 +79,8 @@
 
 | Player | Cup | Points |
 |--------|-----|--------|
+| Waluigi Love | custom | 39 |
+| Komodowaran | custom | 48 |
 | Master Baiter | keine Ahnung | 41 |
 | Garmin | 49 | 49 |
 | Addiven | keine Ahnung | 49 |
